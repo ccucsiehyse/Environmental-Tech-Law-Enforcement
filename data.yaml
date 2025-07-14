@@ -1,0 +1,6 @@
+train: images/train
+test: images/test
+val: images/val
+
+nc: 9
+names: ['Human', 'Cigarette ','Tissue','bottle','Plastic _bag','Bagged_trash','Cardboard','box','unknown']
